@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_page_backgroud_color"
+    android:orientation="vertical">
+
+    <include layout="@layout/titlebar"></include>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y1"
+        android:background="@color/color_butel_selfinfo_darkline_color" />
+
+
+    <ScrollView
+        android:layout_marginTop="@dimen/y40"
+        android:fitsSystemWindows="true"
+        android:scrollbars="none"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/y40">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y1"
+                android:background="@color/color_butel_selfinfo_darkline_color" />
+
+            <View
+                android:layout_width="@dimen/x692"
+                android:layout_height="@dimen/y1"
+                android:layout_marginLeft="@dimen/x28"
+                android:background="@color/color_butel_selfinfo_darkline_color" />
+
+            <RelativeLayout
+                android:id="@+id/name_rl"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y96"
+                android:background="@drawable/contact_item_selector">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="@dimen/x28"
+                    android:layout_centerVertical="true"
+                    android:text="@string/my_name"
+                    android:textColor="@color/qn_dialog_body_color"
+                    android:textSize="@dimen/x32" />
+
+                <TextView
+                    android:id="@+id/my_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="@dimen/x74"
+                    android:layout_centerVertical="true"
+                    android:text="@string/my_name"
+                    android:textColor="#666666"
+                    android:textSize="@dimen/x32" />
+                <Button
+                    android:layout_width="@dimen/x26"
+                    android:layout_height="@dimen/y26"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/x28"
+                    android:background="@drawable/nextlittle"/>
+
+            </RelativeLayout>
+
+            <View
+                android:layout_width="@dimen/x692"
+                android:layout_height="@dimen/y1"
+                android:layout_marginLeft="@dimen/x28"
+                android:background="@color/color_butel_selfinfo_darkline_color" />
+
+            <RelativeLayout
+                android:id="@+id/accountnum_rl"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y96"
+                android:background="@drawable/contact_item_selector">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="@dimen/x28"
+                    android:layout_centerVertical="true"
+                    android:text="@string/my_account_id"
+                    android:textColor="@color/qn_dialog_body_color"
+                    android:textSize="@dimen/x32" />
+
+                <TextView
+                    android:id="@+id/account_id"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="@dimen/x74"
+                    android:layout_centerVertical="true"
+                    android:text="@string/my_account_num"
+                    android:textColor="#666666"
+                    android:textSize="@dimen/x32" />
+
+                <Button
+                    android:layout_width="@dimen/x26"
+                    android:layout_height="@dimen/y26"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/x28"
+                    android:background="@drawable/nextlittle" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="@dimen/x692"
+                android:layout_height="@dimen/y1"
+                android:layout_marginLeft="@dimen/x28"
+                android:background="@color/color_butel_selfinfo_darkline_color" />
+
+            <RelativeLayout
+                android:id="@+id/phonenum_rl"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y96"
+                android:background="@drawable/contact_item_selector">
+
+                <TextView
+                    android:id="@+id/mobile"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="@dimen/x28"
+                    android:layout_centerVertical="true"
+                    android:text="@string/my_phone_id"
+                    android:textColor="@color/qn_dialog_body_color"
+                    android:textSize="@dimen/x32" />
+
+                <TextView
+                    android:id="@+id/phone_num"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="@dimen/x74"
+                    android:layout_centerVertical="true"
+                    android:text="@string/my_phone_num"
+                    android:textColor="#666666"
+                    android:textSize="@dimen/x32" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="@dimen/x692"
+                android:layout_height="@dimen/y1"
+                android:layout_marginLeft="@dimen/x28"
+                android:background="@color/color_butel_selfinfo_darkline_color" />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y1"
+                android:background="@color/color_butel_selfinfo_darkline_color" />
+            <View
+                android:layout_width="@dimen/x692"
+                android:layout_height="@dimen/y1"
+                android:layout_marginLeft="@dimen/x28"
+                android:background="@color/color_butel_selfinfo_darkline_color" />
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y1"
+                android:layout_marginTop="@dimen/y40"
+                android:background="@color/color_butel_selfinfo_darkline_color" />
+
+            <RelativeLayout
+                android:id="@+id/modify_password_rl"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y96"
+                android:background="@drawable/contact_item_selector">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="@dimen/x28"
+                    android:layout_centerVertical="true"
+                    android:text="@string/modify_password"
+                    android:textColor="@color/qn_dialog_body_color"
+                    android:textSize="@dimen/x32" />
+
+
+                <Button
+                    android:id="@+id/modify_btn"
+                    android:layout_width="@dimen/x26"
+                    android:layout_height="@dimen/y26"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/x28"
+                    android:background="@drawable/nextlittle" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y1"
+                android:background="@color/color_butel_selfinfo_darkline_color" />
+
+            <Button
+                android:id="@+id/mycard_exit_btn"
+                android:layout_width="@dimen/x670"
+                android:layout_height="@dimen/y94"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/y40"
+                android:background="@drawable/zhuxiao_selector"
+                android:focusable="true"
+                android:onClick="onButton"
+                android:text="@string/exist"
+                android:textColor="#ffffff"
+                android:textSize="@dimen/x32" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

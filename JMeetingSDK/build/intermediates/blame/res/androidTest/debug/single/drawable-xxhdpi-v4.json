@@ -1,0 +1,506 @@
+[
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_normal_pic.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_normal_pic.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\icon_delete_normal.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\icon_delete_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_invite_weixing.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\meeting_room_invite_weixing.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_menu_main_view_lock_icon.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\jmeetingsdk_menu_main_view_lock_icon.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_invite_weixing_n.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\meeting_room_invite_weixing_n.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_speaker_mic_off.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\meeting_room_speaker_mic_off.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\switch_video_mode_close_s.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\switch_video_mode_close_s.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_menu_qos_upload.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\meeting_room_menu_qos_upload.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\icon_delete_normal.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\icon_delete_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\textbox.9.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\textbox.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_speaker_cam_off.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\meeting_room_speaker_cam_off.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_close_camera_tip.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\meeting_room_close_camera_tip.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_bg.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_bg.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_menu_sharedoc_reminder.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\meeting_room_menu_sharedoc_reminder.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_bg.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_bg.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_close_camera.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\meeting_room_close_camera.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\barrage_off.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\barrage_off.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\share_screen_bg.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\share_screen_bg.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_menu_main_view_key_icon.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\jmeetingsdk_menu_main_view_key_icon.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_pic_bg_first.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_pic_bg_first.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_video_answering_press.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\jmeetingsdk_video_answering_press.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_invite_sms.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\meeting_room_invite_sms.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\icon_chat_hover.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\icon_chat_hover.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\textbox.9.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\textbox.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_invite_sms.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\meeting_room_invite_sms.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_normal_pic.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_normal_pic.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\switch_video_mode_open_n.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\switch_video_mode_open_n.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_invite_weixing.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\meeting_room_invite_weixing.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_pic_bg_second.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_pic_bg_second.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_bg.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_bg.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_normal_pic_round.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_normal_pic_round.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_speaker_mic_off.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\meeting_room_speaker_mic_off.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\icon_chat_hover.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\icon_chat_hover.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_video_answering_normal.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\jmeetingsdk_video_answering_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_invite_weixing.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\meeting_room_invite_weixing.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\guide_dot_normal.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\guide_dot_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\icon_cri_hover.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\icon_cri_hover.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\guide_dot_focus.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\guide_dot_focus.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\barrage_off.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\barrage_off.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_icon_ring_up_press.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\jmeetingsdk_icon_ring_up_press.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\switch_video_mode_open_n.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\switch_video_mode_open_n.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_invite_sms.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\meeting_room_invite_sms.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_close_camera_tip.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\meeting_room_close_camera_tip.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\loading.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\loading.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\share_screen_bg.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\share_screen_bg.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\icon_chat.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\icon_chat.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_invite_sms_n.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\meeting_room_invite_sms_n.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_video_answering_normal.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\jmeetingsdk_video_answering_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\guide_dot_focus.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\guide_dot_focus.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\send_hovered.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\send_hovered.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_close_camera.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\meeting_room_close_camera.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\icon_chat.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\icon_chat.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\send_hovered.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\send_hovered.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_menu_main_view_lock_icon.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\jmeetingsdk_menu_main_view_lock_icon.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\barrage_on.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\barrage_on.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\icon_cri.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\icon_cri.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\loading.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\loading.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\icon_cri.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\icon_cri.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\icon_chat_hover.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\icon_chat_hover.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_normal_pic_round.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_normal_pic_round.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\switch_video_mode_close_n.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\switch_video_mode_close_n.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_menu_qos_dowload.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\meeting_room_menu_qos_dowload.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\guide_dot_normal.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\guide_dot_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_icon_ring_up_normal.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\jmeetingsdk_icon_ring_up_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_menu_qos_dowload.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\meeting_room_menu_qos_dowload.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\barrage_on.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\barrage_on.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\guide_dot_normal.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\guide_dot_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\send_pressed.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\send_pressed.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\barrage_on.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\barrage_on.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\send_pressed.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\send_pressed.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_invite_sms_n.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\meeting_room_invite_sms_n.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\share_screen_bg.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\share_screen_bg.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\switch_video_mode_close_n.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\switch_video_mode_close_n.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_icon_ring_up_press.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\jmeetingsdk_icon_ring_up_press.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_icon_ring_up_normal.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\jmeetingsdk_icon_ring_up_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_normal_pic.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_normal_pic.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_pic_bg_first.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_pic_bg_first.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_video_answering_press.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\jmeetingsdk_video_answering_press.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_speaker_mic_off.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\meeting_room_speaker_mic_off.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_pic_bg_second.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_pic_bg_second.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\guide_dot_focus.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\guide_dot_focus.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_close_camera_tip.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\meeting_room_close_camera_tip.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\icon_cri_hover.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\icon_cri_hover.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\textbox.9.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\textbox.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\switch_video_mode_open_n.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\switch_video_mode_open_n.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_pic_bg_second.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_pic_bg_second.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\toast_backgrand_new.9.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\toast_backgrand_new.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\switch_video_mode_close_s.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\switch_video_mode_close_s.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_speaker_cam_off.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\meeting_room_speaker_cam_off.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_pic_bg_first.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_pic_bg_first.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_menu_qos_upload.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\meeting_room_menu_qos_upload.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\barrage_off.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\barrage_off.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\icon_cri.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\icon_cri.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\switch_video_mode_open_s.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\switch_video_mode_open_s.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_menu_main_view_key_icon.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\jmeetingsdk_menu_main_view_key_icon.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_menu_main_view_key_icon.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\jmeetingsdk_menu_main_view_key_icon.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_speaker_cam_off.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\meeting_room_speaker_cam_off.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_icon_ring_up_press.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\jmeetingsdk_icon_ring_up_press.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_menu_main_view_lock_icon.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\jmeetingsdk_menu_main_view_lock_icon.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_menu_qos_upload.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\meeting_room_menu_qos_upload.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_video_answering_press.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\jmeetingsdk_video_answering_press.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_menu_sharedoc_reminder.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\meeting_room_menu_sharedoc_reminder.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_menu_sharedoc_reminder.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\meeting_room_menu_sharedoc_reminder.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\switch_video_mode_open_s.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\switch_video_mode_open_s.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\switch_video_mode_open_s.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\switch_video_mode_open_s.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\send_pressed.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\send_pressed.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\icon_cri_hover.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\icon_cri_hover.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\switch_video_mode_close_n.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\switch_video_mode_close_n.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\switch_video_mode_close_s.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\switch_video_mode_close_s.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_invite_weixing_n.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\meeting_room_invite_weixing_n.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\icon_delete_normal.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\icon_delete_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_invite_weixing_n.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\meeting_room_invite_weixing_n.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_video_answering_normal.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\jmeetingsdk_video_answering_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\loading.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\loading.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_invite_sms_n.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\meeting_room_invite_sms_n.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\send_hovered.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\send_hovered.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\toast_backgrand_new.9.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\toast_backgrand_new.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_icon_ring_up_normal.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\jmeetingsdk_icon_ring_up_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_close_camera.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\meeting_room_close_camera.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_normal_pic_round.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\jmeetingsdk_custom_oprate_dialog_normal_pic_round.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\toast_backgrand_new.9.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\toast_backgrand_new.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\meeting_room_menu_qos_dowload.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-xxhdpi-v4\\meeting_room_menu_qos_dowload.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\icon_chat.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\icon_chat.png"
+    }
+]

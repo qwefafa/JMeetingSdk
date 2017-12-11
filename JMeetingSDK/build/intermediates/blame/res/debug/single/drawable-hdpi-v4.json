@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_backgrand.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\src\\main\\res\\drawable-hdpi\\toast_backgrand.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_backgrand.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-hdpi-v4\\toast_backgrand.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_backgrand.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\src\\main\\res\\drawable-hdpi\\toast_backgrand.xml"
+    }
+]

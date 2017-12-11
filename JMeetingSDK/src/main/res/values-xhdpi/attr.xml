@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<attr name="jmeetingsdkborderRadius" format="dimension" />
+
+<attr name="jmeetingsdktype">
+
+    <enum name="circle" value="0" />
+
+    <enum name="round" value="1" />
+
+</attr>
+
+
+<declare-styleable name="jmeetingsdkRoundImageView">
+
+    <attr name="jmeetingsdkborderRadius" />
+
+    <attr name="jmeetingsdktype" />
+
+</declare-styleable>
+
+<declare-styleable name="jmeetingsdkCircleImageView">
+
+    <attr name="border_width" format="dimension" />
+
+    <attr name="border_color" format="color" />
+
+</declare-styleable>
+
+</resources>

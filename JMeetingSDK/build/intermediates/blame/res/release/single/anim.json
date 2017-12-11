@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\release\\anim\\jmeetingsdk_voice_detect_anim.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\src\\main\\res\\anim\\jmeetingsdk_voice_detect_anim.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\release\\anim\\jmeetingsdk_activity_anim_enter.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\src\\main\\res\\anim\\jmeetingsdk_activity_anim_enter.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\release\\anim\\jmeetingsdk_activity_anim_other_enter.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\anim\\jmeetingsdk_activity_anim_other_enter.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\release\\anim\\jmeetingsdk_activity_anim_other_exit.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\src\\main\\res\\anim\\jmeetingsdk_activity_anim_other_exit.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\release\\anim\\jmeetingsdk_activity_anim_other_exit.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\anim\\jmeetingsdk_activity_anim_other_exit.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\release\\anim\\jmeetingsdk_activity_anim_enter.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\src\\main\\res\\anim\\jmeetingsdk_activity_anim_enter.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\release\\anim\\jmeetingsdk_check_animation.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\src\\main\\res\\anim\\jmeetingsdk_check_animation.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\release\\anim\\jmeetingsdk_activity_anim_other_exit.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\src\\main\\res\\anim\\jmeetingsdk_activity_anim_other_exit.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\release\\anim\\jmeetingsdk_loading_animation.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\src\\main\\res\\anim\\jmeetingsdk_loading_animation.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\release\\anim\\jmeetingsdk_loading_animation.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\anim\\jmeetingsdk_loading_animation.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\release\\anim\\jmeetingsdk_activity_anim_other_enter.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\src\\main\\res\\anim\\jmeetingsdk_activity_anim_other_enter.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\release\\anim\\jmeetingsdk_voice_detect_anim.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\src\\main\\res\\anim\\jmeetingsdk_voice_detect_anim.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\release\\anim\\jmeetingsdk_activity_anim_exit.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\anim\\jmeetingsdk_activity_anim_exit.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\release\\anim\\jmeetingsdk_voice_detect_anim.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\anim\\jmeetingsdk_voice_detect_anim.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\release\\anim\\jmeetingsdk_activity_anim_other_enter.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\src\\main\\res\\anim\\jmeetingsdk_activity_anim_other_enter.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\release\\anim\\jmeetingsdk_loading_animation.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\src\\main\\res\\anim\\jmeetingsdk_loading_animation.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\release\\anim\\jmeetingsdk_check_animation.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\anim\\jmeetingsdk_check_animation.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\release\\anim\\jmeetingsdk_activity_anim_exit.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\src\\main\\res\\anim\\jmeetingsdk_activity_anim_exit.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\release\\anim\\jmeetingsdk_activity_anim_exit.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\src\\main\\res\\anim\\jmeetingsdk_activity_anim_exit.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\release\\anim\\jmeetingsdk_check_animation.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\src\\main\\res\\anim\\jmeetingsdk_check_animation.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\release\\anim\\jmeetingsdk_activity_anim_enter.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\anim\\jmeetingsdk_activity_anim_enter.xml"
+    }
+]

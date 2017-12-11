@@ -1,0 +1,614 @@
+[
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\emojicon_item.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\emojicon_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_choose_window_item.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_choose_window_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_barrage_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_barrage_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_share_screen_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_share_screen_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_episode_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_episode_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_loading_dialog.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\jmeetingsdk_loading_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_ask_for_stop_speak_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_ask_for_stop_speak_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_media_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_media_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\cpnt_emotionl.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\cpnt_emotionl.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\switch_video_mode_item.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\switch_video_mode_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_participators_view.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_participators_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_video_off_auto_reminder.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_video_off_auto_reminder.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_qos_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_qos_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_main_view.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_main_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_qos_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_qos_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_give_mic_view_list_item.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_give_mic_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\switch_video_mode_item.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\switch_video_mode_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_custom_operate_dialog.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\jmeetingsdk_custom_operate_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_menu_auto_suit_info_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\jmeetingsdk_menu_auto_suit_info_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_view_camera.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_view_camera.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\switch_video_mode_item.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\switch_video_mode_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_chat_receive.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_chat_receive.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_invite_dialog.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\jmeetingsdk_invite_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_episode_reminder.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_episode_reminder.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_live_dialog.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_live_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_chat_send.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_chat_send.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_participator_view_list_item.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_participator_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_exit_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_exit_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_share_doc_reminder.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_share_doc_reminder.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_activity_meeting_room.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\jmeetingsdk_activity_meeting_room.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_live_dialog.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_live_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_mainview.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\jmeetingsdk_mainview.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_episode_button_view.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_episode_button_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\page_load_header.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\page_load_header.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_activity_meeting_room.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\jmeetingsdk_activity_meeting_room.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_menu_view.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_menu_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_invite_dialog.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\jmeetingsdk_invite_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\emojicon_grid.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\emojicon_grid.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_toast_layout.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\jmeetingsdk_toast_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_loading_dialog.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\jmeetingsdk_loading_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_give_mic_view_list_item.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_give_mic_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_view_camera.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_view_camera.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_speaker_info_reminder.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_speaker_info_reminder.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\emojicon_grid.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\emojicon_grid.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_menu_master_set_user_speak_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\jmeetingsdk_menu_master_set_user_speak_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_invite_person_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_invite_person_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_test.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\emojicon_item.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\emojicon_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_episode_button_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_episode_button_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_invite_person_view.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_invite_person_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\page_load_header.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\page_load_header.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_test.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_barrage_view.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_barrage_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_invite_person_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_invite_person_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_live_share_dialog.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_live_share_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\cpnt_emotionl.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\cpnt_emotionl.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\switch_video_mode.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\switch_video_mode.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_invite_person_view_list_item.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_invite_person_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\switch_video_mode.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\switch_video_mode.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_msg.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_msg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_msg.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_msg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_episode_reminder.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_episode_reminder.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_menu_master_set_user_speak_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\jmeetingsdk_menu_master_set_user_speak_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\camera_popwindow.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\camera_popwindow.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_chat_send.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_chat_send.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_choose_window_item.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_choose_window_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_mainview.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\jmeetingsdk_mainview.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_qos_item_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_qos_item_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\cpnt_emotionl.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\cpnt_emotionl.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_invite_dialog.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\jmeetingsdk_invite_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\camera_popwindow.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\camera_popwindow.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_view_camera.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_view_camera.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_menu_master_set_user_speak_view.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\jmeetingsdk_menu_master_set_user_speak_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_participators_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_participators_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_participators_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_participators_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_ask_for_stop_speak_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_ask_for_stop_speak_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\emojicon_item.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\emojicon_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_speaker_info_reminder.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_speaker_info_reminder.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_toast_layout.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\jmeetingsdk_toast_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_media_view.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_media_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_loading_dialog.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\jmeetingsdk_loading_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\popwindowmode.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\popwindowmode.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_multi_speaker_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\jmeetingsdk_multi_speaker_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_menu_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_menu_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_main_button_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_main_button_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_give_mic_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_give_mic_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_participator_view_list_item.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_participator_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_choose_window_item.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_choose_window_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_main_button_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_main_button_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_test.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_test.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_give_mic_view.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_give_mic_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_qos_item_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_qos_item_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_menu_item_master_set_users.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\jmeetingsdk_menu_item_master_set_users.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_menu_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_menu_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_ask_for_speak_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_ask_for_speak_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_mainview.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\jmeetingsdk_mainview.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_share_screen_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_share_screen_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_live_share_dialog.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_live_share_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_chat_send.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_chat_send.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_menu_item_auto_suit_info.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\jmeetingsdk_menu_item_auto_suit_info.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_test.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_barrage_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_barrage_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\emojicon_grid.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\emojicon_grid.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_custom_operate_dialog.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\jmeetingsdk_custom_operate_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_multi_speaker_view.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\jmeetingsdk_multi_speaker_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_give_mic_view_list_item.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_give_mic_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_episode_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_episode_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_menu_item_master_set_users.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\jmeetingsdk_menu_item_master_set_users.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_speaker_info_reminder.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_speaker_info_reminder.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_toast_layout.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\jmeetingsdk_toast_layout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_main_button_view.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_main_button_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\switch_video_mode.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\switch_video_mode.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_media_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_media_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_activity_meeting_room.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\jmeetingsdk_activity_meeting_room.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\page_load_header.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\page_load_header.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\camera_popwindow.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\camera_popwindow.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_invite_person_view_list_item.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_invite_person_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_menu_auto_suit_info_view.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\jmeetingsdk_menu_auto_suit_info_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_main_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_main_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_test.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_test.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_chat_receive.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_chat_receive.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_qos_view.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_qos_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_episode_reminder.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_episode_reminder.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_share_doc_reminder.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_share_doc_reminder.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_exit_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_exit_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_menu_item_master_set_users.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\jmeetingsdk_menu_item_master_set_users.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_msg.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_msg.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_live_dialog.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_live_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_menu_item_auto_suit_info.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\jmeetingsdk_menu_item_auto_suit_info.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_video_off_auto_reminder.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_video_off_auto_reminder.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_video_off_auto_reminder.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_video_off_auto_reminder.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_ask_for_stop_speak_view.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_ask_for_stop_speak_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_ask_for_speak_view.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_ask_for_speak_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_invite_person_view_list_item.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_invite_person_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\popwindowmode.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\popwindowmode.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_share_doc_reminder.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_share_doc_reminder.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_test.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_test.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_ask_for_speak_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_ask_for_speak_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_main_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_main_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_share_screen_view.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_share_screen_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_exit_view.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_exit_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_custom_operate_dialog.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\jmeetingsdk_custom_operate_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_menu_auto_suit_info_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\jmeetingsdk_menu_auto_suit_info_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_chat_receive.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_chat_receive.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_participator_view_list_item.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_participator_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\popwindowmode.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\popwindowmode.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_episode_view.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_episode_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_episode_button_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_episode_button_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_multi_speaker_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\jmeetingsdk_multi_speaker_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_live_share_dialog.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_live_share_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_give_mic_view.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\meeting_room_menu_give_mic_view.xml"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_menu_item_auto_suit_info.xml",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\bundles\\debug\\res\\layout\\jmeetingsdk_menu_item_auto_suit_info.xml"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_qos_item_view.xml",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_qos_item_view.xml"
+    }
+]

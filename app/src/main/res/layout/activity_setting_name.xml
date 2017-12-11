@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_setting_name"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/titlebar" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y112"
+        android:background="#ffffff" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/x40"
+            android:text="@string/my_name"
+            android:textColor="#4b4c4c"
+            android:textSize="@dimen/x30" />
+
+        <EditText
+            android:id="@+id/setting_name_edit"
+            android:layout_marginRight="@dimen/x74"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/x150"
+            android:layout_centerVertical="true"
+            android:background="@null"
+            android:hint="@string/input_name"
+            android:textColor="#8c8d8f"
+            android:textSize="@dimen/x30"
+            />
+    </RelativeLayout>
+
+</LinearLayout>

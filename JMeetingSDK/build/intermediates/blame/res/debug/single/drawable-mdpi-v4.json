@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\meeting_room_close_camera.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-mdpi-v4\\meeting_room_close_camera.png"
+    },
+    {
+        "merged": "F:\\workspace\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\tmp\\ButelMedical\\codeofJMeetingSDK_v228\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\meeting_room_close_camera.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\src\\main\\res\\drawable-mdpi\\meeting_room_close_camera.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\JMeetingSDK\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\meeting_room_close_camera.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\src\\main\\res\\drawable-mdpi\\meeting_room_close_camera.png"
+    },
+    {
+        "merged": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "F:\\workspace\\013_MobileMeetingSDK\\android\\prototype\\HnydSDKDemotwo\\codeofJMeetingSDK_v228\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]
